@@ -1,1 +1,1 @@
-# data_science_algebra_linear
+# Algebra linear data science 
